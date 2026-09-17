@@ -1,0 +1,6 @@
+# O repositório contém somente o código do Scriptable.
+*.ndjson
+*.json
+*.bak
+*.token
+.DS_Store
